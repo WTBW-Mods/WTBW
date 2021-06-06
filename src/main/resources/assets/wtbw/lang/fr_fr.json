@@ -1,0 +1,138 @@
+{
+  "itemGroup.wtbw": "What the B wants",
+
+  "item.wtbw.tiny_coal": "Petit Charbon",
+  "item.wtbw.tiny_charcoal": "Petit Charbon de bois",
+
+  "item.wtbw.stone_hammer": "Marteau de pierre",
+  "item.wtbw.iron_hammer": "Marteau de fer",
+  "item.wtbw.gold_hammer": "Marteau d'or",
+  "item.wtbw.diamond_hammer": "Marteau de diamant",
+
+  "item.wtbw.stone_excavator": "Excavatrice de pierre",
+  "item.wtbw.iron_excavator": "Excavatrice de fer",
+  "item.wtbw.gold_excavator": "Excavatrice d'or",
+  "item.wtbw.diamond_excavator": "Excavatrice de diamant",
+
+  "item.wtbw.stone_greataxe": "Grande hache de pierre",
+  "item.wtbw.iron_greataxe": "Grande hache de fer",
+  "item.wtbw.gold_greataxe": "Grande hache d'or",
+  "item.wtbw.diamond_greataxe": "Grande hache de diamant",
+
+  "item.wtbw.stone_swap_tool": "Échangeur de pierres",
+  "item.wtbw.iron_swap_tool": "Échangeur de fer",
+  "item.wtbw.diamond_swap_tool": "Échangeur de diamants",
+
+  "item.wtbw.trowel": "Truelle",
+  "item.wtbw.magnet": "Aimant",
+
+  "item.wtbw.ender_pouch": "Pochette Ender",
+
+  "item.wtbw.watering_can": "Arrosoir de base",
+  "item.wtbw.watering_can_quartz": "Arrosoir de Quartz",
+  "item.wtbw.watering_can_diamond": "Arrosoir de diamant",
+  "item.wtbw.watering_can_ender": "Arrosoir de l'Ender",
+  "item.wtbw.ender_core": "Noyau de l'Ender",
+
+  "block.wtbw.charcoal_block": "Bloc de charbon de bois",
+
+  "block.wtbw.redstone_timer": "Minuteur de Redstone",
+  "block.wtbw.redstone_emitter": "Émetteur de redstone",
+
+  "block.wtbw.iron_furnace": "Four de fer",
+  "block.wtbw.gold_furnace": "Four d'or",
+  "block.wtbw.diamond_furnace": "Four de diamant",
+  "block.wtbw.end_furnace": "Four de l'End",
+
+  "block.wtbw.lava_stone_brick": "Brique en pierre de lave",
+  "block.wtbw.lava_stone_brick_wall": "Muret de briques en pierre de lave",
+  "block.wtbw.lava_stone_brick_stairs": "Escalier de briques en pierre de lave",
+  "block.wtbw.lava_stone_brick_slab": "Dalle de briques en pierre de lave",
+
+  "block.wtbw.lava_chiseled_stone_brick": "Brique de pierre de ciseau de lave",
+
+  "block.wtbw.water_stone_brick": "Brique de pierre d'eau",
+  "block.wtbw.water_stone_brick_slab": "Dalle de brique de pierre d'eau",
+  "block.wtbw.water_stone_brick_stairs": "Escaliers en brique de pierre d'eau",
+  "block.wtbw.water_stone_brick_wall": "Muret de briques en pierre d'eau",
+
+  "block.wtbw.water_chiseled_stone_brick": "Brique de pierre de ciseau à eau",
+
+  "block.wtbw.water_glass": "Verre d'eau",
+  "block.wtbw.lava_glass": "Verre de lave",
+
+  "block.wtbw.polished_andesite_brick": "Brique d'andésite polie",
+  "block.wtbw.polished_diorite_brick": "Brique de diorite polie",
+  "block.wtbw.polished_granite_brick": "Brique de granit poli",
+
+  "block.wtbw.groundium": "Groundium",
+
+  "block.wtbw.puller": "Extracteur",
+  "block.wtbw.pusher": "Poussoir",
+  "block.wtbw.vacuum_chest": "Coffre à vide",
+
+  "block.wtbw.wooden_spikes": "Pointes en bois",
+  "block.wtbw.bamboo_spikes": "Pointes de bambou",
+  "block.wtbw.iron_spikes": "Pointes de fer",
+  "block.wtbw.gold_spikes": "Pointes d'or",
+  "block.wtbw.diamond_spikes": "Pointes de diamant",
+
+  "block.wtbw.block_breaker": "Brise-bloc",
+  "block.wtbw.block_placer": "Placeur de blocs",
+  "block.wtbw.block_detector": "Détecteur de bloc",
+
+  "block.wtbw.blaze_block": "Bloc de Blaze",
+
+  "block.wtbw.magnet_inhibitor": "Inhibiteur d'aimant",
+
+  "block.wtbw.trashcan": "Poubelle",
+  "block.wtbw.fluid_trashcan": "Poubelle fluide",
+  "block.wtbw.energy_trashcan": "Poubelle d'énergie",
+
+  "block.wtbw.greenhouse_glass": "Verre à effet de serre",
+
+  "block.wtbw.light_gray_redstone_lamp": "Lampe Redstone Gris Clair",
+  "block.wtbw.light_blue_redstone_lamp": "Lampe Redstone bleu clair",
+  "block.wtbw.blue_redstone_lamp": "Lampe Redstone Bleue",
+  "block.wtbw.brown_redstone_lamp": "Lampe Redstone Marron",
+  "block.wtbw.cyan_redstone_lamp": "Lampe Redstone Cyan",
+  "block.wtbw.gray_redstone_lamp": "Lampe Redstone Gris",
+  "block.wtbw.green_redstone_lamp": "Lampe Redstone Verte",
+  "block.wtbw.lime_redstone_lamp": "Lampe Redstone Verte Clair",
+  "block.wtbw.magenta_redstone_lamp": "Lampe Redstone Magenta",
+  "block.wtbw.orange_redstone_lamp": "Lampe Redstone Orange",
+  "block.wtbw.pink_redstone_lamp": "Lampe Redstone Rose",
+  "block.wtbw.purple_redstone_lamp": "Lampe Redstone Violet",
+  "block.wtbw.red_redstone_lamp": "Lampe Redstone Rouge",
+  "block.wtbw.white_redstone_lamp": "Lampe Redstone Blanche",
+  "block.wtbw.yellow_redstone_lamp": "Lampe Redstone Jaune",
+
+  "wtbw.tooltip.burntime": "Brûle pendant : %s ticks",
+  "wtbw.tooltip.swap_target_pre": "Bloc cible :",
+  "wtbw.tooltip.swap_none": "RIEN",
+  "wtbw.tooltip.swap_range": "Échange de plage: ",
+  "wtbw.tooltip.magnet_inhibitor": "Empêche l'aimant de fonctionner dans un rayon de bloc %s",
+  "wtbw.tooltip.trowel": "Place des blocs aléatoires de votre barre de raccourcis",
+  "wtbw.tooltip.greenhouse_glass": "Accélère la croissance des cultures en dessous, nécessite un accès au ciel",
+  "wtbw.tooltip.emitter": "Émet un signal de redstone en fonction du nombre affiché.\n(Sneak) Clic droit pour faire défiler le nombre",
+  "wtbw.tooltip.timer": "Donne une impulsion de redstone chaque tous les %s ticks",
+  "wtbw.tooltip.spikes": "Endommage les entités debout au sommet",
+  "wtbw.tooltip.spikes_lethal": "Ce pic tue des entités",
+  "wtbw.tooltip.spikes_non_lethal": "Ce pic laisse les entités à 1 santé",
+  "wtbw.tooltip.pusher_range": "Ce bloc pousse les entités dans un rayon de bloc %s",
+  "wtbw.tooltip.puller_range": "Ce bloc tire les entités dans un rayon de bloc %s",
+  "wtbw.tooltip.water": "Eau: %s/%s",
+  "wtbw.tooltip.radius": "Rayon: %s",
+
+  "wtbw.text.swap_target_changed": "Bloc changé à ",
+  "wtbw.text.cycled": "Rayon changé à %s",
+
+  "death.attack.spikes.wooden": "Pointes de bois percées %s",
+  "death.attack.spikes.bamboo": "Pointes de bambou percées %s",
+  "death.attack.spikes.iron": "Pointes de fer percées %s",
+  "death.attack.spikes.gold": "Pointes d'or percées %s",
+  "death.attack.spikes.diamond": "Pointes de diamant percées %s",
+
+  "wtbw.gui.current": "Actuel",
+  "wtbw.gui.exact": "Exact"
+}
